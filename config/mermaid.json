@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "flowchart": {
+    "curve": "linear",
+    "diagramPadding": 5,
+    "rankSpacing": 30,
+    "nodeSpacing": 40
+  }
+}

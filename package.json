@@ -1,0 +1,16 @@
+{
+  "name": "mermaid-db-diagram",
+  "version": "1.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "diagram": "npx mmdc"
+  },
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^11.9.0",
+    "dotenv": "^17.2.3",
+    "pg": "^8.16.3",
+    "tmp-promise": "^3.0.3"
+  }
+  
+}
